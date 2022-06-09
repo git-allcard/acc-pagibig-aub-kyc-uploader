@@ -1,0 +1,28 @@
+[
+	{
+		"BankID": 1,
+		"DbaseConStrUbp": "Server=10.88.87.68;Database=LCDB_01;User=allcard;Password=MikasaAckerman#;",
+		"DbaseConStrAub": "Server=10.88.87.71;Database=LCDB_01;User=allcard;Password=MikasaAckerman#;",
+		"DbaseConStrSys": "Server=10.88.87.68;Database=LCDB_01_SYS;User=allcard;Password=MikasaAckerman#;",
+		"SmtpHost": "smtp.allcard.com.ph",
+		"SmtpPort": 587,
+		"SmtpUser": "ecquinosa@allcardtech.com.ph",
+		"SmtpPassword": "earl1106_1e",
+		"SmtpTimeout": 10000,
+		"IsSendToSftp": 1,
+		"EmailRecipientsTo": "ecquinosa@allcardtech.com.ph",
+		"EmailRecipientsCC": "ecquinosa@allcardtech.com.ph",
+		"WS_Repo": "C:\\EDEL\\PAGIBIG\\AUB",
+		"BankRepo": "C:\\EDEL\\PAGIBIG\\AUB\\SFTP",
+		"SftpHost": "sftp.allcardtech.com.ph",
+		"SftpPort": 2022,
+		"SftpUser": "bayambang",
+		"SftpPass": "Argon2016*",
+		"SftpSshHostKeyFingerprint": "ssh-ed25519 255 NvpBYgWWOFB5E4W1UVPLpmu+kAbcedUdBQeLp33g7Ao=",
+		"SftpLocalPath": "C:\\EDEL\\PAGIBIG\\AUB\\SFTP",
+		"SftpRemotePath": "/Bayambang/test e",
+		"ProcessIntervalSeconds": 20,
+		"IsSendEmail": 0,
+		"LastSuccessEmailSend": "2020-09-16"
+	}
+]
