@@ -154,14 +154,13 @@ namespace accpagibigph3srv
                         IsBankProcessReady = false;
                         dlgtProcess _delegate = new dlgtProcess(RunBankProcess);
 
-
-                        if (!IsRefDateExist())
-                        {
-                            DateTime prevDate = Utilities.SystemDate.AddDays(-1);
-                            Console.WriteLine(Utilities.TimeStamp() + "Processing previous date " + prevDate.ToShortDateString() + "...");
-                            _delegate.Invoke(prevDate);
-                            System.Threading.Thread.Sleep(10000);
-                        }
+                        //if (!IsRefDateExist())
+                        //{
+                        //    DateTime prevDate = Utilities.SystemDate.AddDays(-1);
+                        //    Console.WriteLine(Utilities.TimeStamp() + "Processing previous date " + prevDate.ToShortDateString() + "...");
+                        //    _delegate.Invoke(prevDate);
+                        //    System.Threading.Thread.Sleep(10000);
+                        //}
 
                         Console.WriteLine(Utilities.TimeStamp() + "Processing " + Utilities.SystemDate.ToShortDateString() + "...");
                         _delegate.Invoke(Utilities.SystemDate);

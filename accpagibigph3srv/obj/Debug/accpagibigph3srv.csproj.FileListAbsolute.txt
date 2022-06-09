@@ -54,3 +54,13 @@ C:\EDEL\Projects\accpagibigph3srv_aub\accpagibigph3srv\obj\Debug\accpagibigph3sr
 C:\EDEL\Projects\accpagibigph3srv_aub\accpagibigph3srv\obj\Debug\accpagibigph3srv.exe
 C:\EDEL\Projects\accpagibigph3srv_aub\accpagibigph3srv\obj\Debug\accpagibigph3srv.pdb
 C:\EDEL\Projects\accpagibigph3srv_aub\accpagibigph3srv\bin\Debug\WinSCPnet.dll
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\bin\Debug\accpagibigph3srv.exe.config
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\bin\Debug\accpagibigph3srv.exe
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\bin\Debug\accpagibigph3srv.pdb
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\bin\Debug\Newtonsoft.Json.dll
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\bin\Debug\Newtonsoft.Json.xml
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.AssemblyReference.cache
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.CoreCompileInputs.cache
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\obj\Debug\accpagibigph3srv.csproj.CopyComplete
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\obj\Debug\accpagibigph3srv.exe
+C:\EDEL\Projects\acc-pagibig-aub-kyc-uploader\accpagibigph3srv\obj\Debug\accpagibigph3srv.pdb

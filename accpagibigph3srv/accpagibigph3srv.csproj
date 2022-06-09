@@ -52,7 +52,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="WinSCPnet, Version=1.6.5.9849, Culture=neutral, PublicKeyToken=2271ec4a3c56d0bf, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\Program Files (x86)\WinSCP\WinSCPnet.dll</HintPath>
+      <HintPath>bin\Debug\WinSCPnet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
